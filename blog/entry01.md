@@ -9,6 +9,9 @@ I choose the topic of Ob Sonographer because I want it to be my career for the r
 
  # Research about the Ob Sonographer #
  The medical field can be a nice Career but it can have cons and pros. pros are that you get to be in your patients whole journey having their baby and watching how a small human can grow throughout the months inside a stomach but there can also be cons in the medical field. The Cons is that the women can have a miscarriage and will know due to their ultrasound and that there you have to talk to the patient throughtout the process and tell them what they can do it can be something heart breaking but This website https://journals.sagepub.com/doi/10.1177/87564793241256976 talks about what to do in any serious situation.
+
+ # Summary #
+ Throughout this whole reasearch I didn't know a few things  about being an OB Sonographer and the whole process on how to become one it like a very big brain career meaning someone that becomes an Ob son0grapher has to have a big brain cause it so much to learn much throuout the process someone and someday I will make it.
 [Next](entry02.md)
 
 [Home](../README.md)
