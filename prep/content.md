@@ -8,7 +8,7 @@ Topic: **Ob sonographer**
 ## Part A: existing technology
 
 ##### Software
-* Tech
+* Template
   * Detail
   * [image text](image URL)
 
