@@ -17,7 +17,8 @@ Topic: **Ob sonographer**
 ##### Hardware
 * Tranducer
   * A hardware tool that Ob sonographers use is called tranducer.
-  * [image text](image URL)
+  * <img src="https://s7d9.scene7.com/is/image/gehealthcare/voluson-womens-health-expert-22-ci-en?fmt=webp" alt="voluson-womens-health-expert-22-ci-en"/><img width="1056" height="594" alt="image" src="https://github.com/user-attachments/assets/f2a2fef3-3d77-48b0-b290-f815ad1b210a" />
+
 
 ## Part B: possible future technology
 * Idea
