@@ -15,8 +15,8 @@ Topic: **Ob sonographer**
   https://www.gehealthcare.com/en-us/products/ultrasound/ultrasound-reporting/viewpoint-womens-health?srsltid=AYCX9vLF1w1IYz8G1D5JClyl96mVZQZCV8NCoY5HPU1x3lVOaVHQjVYD
 
 ##### Hardware
-* Tech
-  * Detail
+* Tranducer
+  * A hardware tool that Ob sonographers use is called tranducer.
   * [image text](image URL)
 
 ## Part B: possible future technology
