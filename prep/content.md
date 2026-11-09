@@ -16,10 +16,8 @@ Topic: **Ob sonographer**
 
 ##### Hardware
 * Tranducer
-  * A hardware tool that Ob sonographers use is called tranducer.
-  * <img src="https://s7d9.scene7.com/is/image/gehealthcare/voluson-womens-health-expert-22-ci-en?fmt=webp" alt="voluson-womens-health-expert-22-ci-en"/><img width="1056" height="594" alt="image" src="https://github.com/user-attachments/assets/f2a2fef3-3d77-48b0-b290-f815ad1b210a" />
-
-
+  * A hardware tool that Ob sonographers use is called tranducer. which every pregante women should go to see if their baby is growing nice and healthy and sonographers also see how big their baby is growing and you can also hear their heartbeat and they cost approximately around 3,000 and 6,000. Here is a website that talks everything about the tranducer. https://my.clevelandclinic.org/health/diagnostics/9704-ultrasound-in-pregnancy
+  * <img src="https://s7d9.scene7.com/is/image/gehealthcare/voluson-womens-health-expert-22-ci-en?fmt=webp" alt="voluson-womens-health-expert-22-ci-en"/>
 ## Part B: possible future technology
 * Idea
   * Detail
